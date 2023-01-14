@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OMZ</string>
+    <string name="text_home">홈</string>
+    <string name="text_result">결과</string>
+    <string name="text_chat">채팅</string>
+    <string name="text_myinfo">내정보</string>
+</resources>
